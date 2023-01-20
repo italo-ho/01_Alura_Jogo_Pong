@@ -8,3 +8,7 @@
 ![Badge](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black&logoWidth=30&style=flat-square)
 
 Meu primeiro projeto criando através dos cursos oferecidos pelo portal Alura.
+
+# Demonstração do Projeto
+
+![2023-01-19-23-35-22](https://user-images.githubusercontent.com/108245748/213605921-d7246749-d15a-429a-a205-3ef4fd23d40f.gif)
